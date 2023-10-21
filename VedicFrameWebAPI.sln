@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VedicFrameWebAPI", "VedicFrameWebAPI\VedicFrameWebAPI.csproj", "{D43A423A-C3E0-48A2-B98D-2CFAD3A903D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43A423A-C3E0-48A2-B98D-2CFAD3A903D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43A423A-C3E0-48A2-B98D-2CFAD3A903D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43A423A-C3E0-48A2-B98D-2CFAD3A903D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43A423A-C3E0-48A2-B98D-2CFAD3A903D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB89620D-C29E-4BAA-9E1A-54FFCC5661F5}
+	EndGlobalSection
+EndGlobal
